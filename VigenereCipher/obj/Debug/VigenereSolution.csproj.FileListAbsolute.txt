@@ -1,0 +1,7 @@
+C:\Users\idukh\source\repos\VigenereCipher\bin\Debug\VigenereCipher.exe.config
+C:\Users\idukh\source\repos\VigenereCipher\bin\Debug\VigenereCipher.exe
+C:\Users\idukh\source\repos\VigenereCipher\bin\Debug\VigenereCipher.pdb
+C:\Users\idukh\source\repos\VigenereCipher\obj\Debug\VigenereSolution.csprojAssemblyReference.cache
+C:\Users\idukh\source\repos\VigenereCipher\obj\Debug\VigenereSolution.csproj.CoreCompileInputs.cache
+C:\Users\idukh\source\repos\VigenereCipher\obj\Debug\VigenereCipher.exe
+C:\Users\idukh\source\repos\VigenereCipher\obj\Debug\VigenereCipher.pdb
